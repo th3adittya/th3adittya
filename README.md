@@ -25,13 +25,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3adittya&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3adittya&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=th3adittya&theme=onestar&no-frame=true&column=6" alt="Trophies"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=th3adittya&style=for-the-badge" alt="Profile Views"/>
