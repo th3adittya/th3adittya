@@ -27,9 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=th3adittya&theme=radical&no-frame=true&column=4" alt="Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=th3adittya&style=for-the-badge" alt="Profile Views"/>
 </p>
