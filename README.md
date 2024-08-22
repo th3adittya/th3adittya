@@ -20,7 +20,7 @@
 - ⚡ Fun fact: **When I open a code editor, I forget that I need to sleep!**
 
 ## 📫 How to Reach Me?
-- **Email:** [th3ad1ttya@gmail.com](mailto:th3ad1ttya@gmail.com)
+- **Email:** [th3ad1ttya@gmail.com](mailto:th3ad1ttya@gmail.com) or [th3ad1ttya@hexapalsllc.com](mailto:th3ad1ttya@hexapalsllc.com)
 
 ---
 
