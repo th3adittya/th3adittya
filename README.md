@@ -23,10 +23,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3adittya&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3adittya&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
