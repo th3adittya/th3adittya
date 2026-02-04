@@ -1,9 +1,9 @@
 name: Summary Cards
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 18 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,4 +22,3 @@ jobs:
           USERNAME: th3adittya
           BRANCH: main
           THEME: tokyonight
-          REPOSITORY: th3adittya/th3adittya
