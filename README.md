@@ -97,7 +97,6 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
   <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
----
 
 # 🚀 Featured Projects
 <p align="center">
