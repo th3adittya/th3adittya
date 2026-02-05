@@ -55,9 +55,9 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ---
 
-# 🧠 Languages
+## 🧠 Languages
 <p align="center">
-  <img src="./metrics-languages.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3adittya&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
