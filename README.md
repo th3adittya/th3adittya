@@ -86,27 +86,26 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ## 📊 Profile Summary Cards
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3adittya&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=th3adittya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=th3adittya&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/4-productive-time.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=th3adittya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=th3adittya&theme=tokyonight&utcOffset=6" />
 </p>
 
-# 🚀 Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=PingoraMobile&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=pingora-server&hide_border=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=hexa-core-api&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=MusiTube&hide_border=true&theme=tokyonight" />
-</p>
+---
+
+## 🚀 Featured Projects
+- 🔥 **Pingora** — WhatsApp/Telegram-style realtime chat system (Mobile + Backend)
+- ⚡ **Hexa Core API** — production API + AI UI experiments
+- 🎵 **MusiTube** — custom music player engine + UI
+- 🛠️ **API Boilerplate** — Fastify + Postgres + Redis starter (coming)
+
 
 ---
 
