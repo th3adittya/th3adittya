@@ -66,7 +66,7 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 ## 📈 GitHub Stats
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=th3adittya&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=th3adittya&theme=tokyonight" />
 </p>
 
 <p align="center">
