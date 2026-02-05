@@ -77,9 +77,9 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ---
 
-# 🐍 Contribution Snake (Auto-generated)
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/output/snake.svg" />
+  <img src="./dist/snake.svg" />
 </p>
 
 ---
