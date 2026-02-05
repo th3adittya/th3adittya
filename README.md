@@ -101,19 +101,24 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 ---
 
 ## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/th3adittya/al-quran">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos?username=th3adittya&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/AL--QURAN-PUBLIC-00d9ff?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/th3adittya/Adhans">
+    <img src="https://img.shields.io/badge/ADHANS-PUBLIC-00d9ff?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/th3adittya/al-quran"><img src="https://img.shields.io/badge/al--quran-PUBLIC-00d9ff?style=for-the-badge" /></a>
-  <a href="https://github.com/th3adittya/Adhans"><img src="https://img.shields.io/badge/Adhans-PUBLIC-00d9ff?style=for-the-badge" /></a>
-  <a href="https://github.com/th3adittya/LaravelQuickStart"><img src="https://img.shields.io/badge/LaravelQuickStart-PUBLIC-00d9ff?style=for-the-badge" /></a>
-  <a href="https://github.com/th3adittya/MyVPN"><img src="https://img.shields.io/badge/MyVPN-PUBLIC-00d9ff?style=for-the-badge" /></a>
+  <a href="https://github.com/th3adittya/LaravelQuickStart">
+    <img src="https://img.shields.io/badge/LARAVELQUICKSTART-PUBLIC-00d9ff?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/th3adittya/MyVPN">
+    <img src="https://img.shields.io/badge/MYVPN-PUBLIC-00d9ff?style=for-the-badge" />
+  </a>
 </p>
-
 
 
 ---
