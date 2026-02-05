@@ -87,15 +87,15 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ## 📊 Profile Summary Cards
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/th3adittya/th3adittya/main/summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 # 🚀 Featured Projects
