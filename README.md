@@ -101,10 +101,20 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 ---
 
 ## 🚀 Featured Projects
-- 🔥 **Pingora** — WhatsApp/Telegram-style realtime chat system (Mobile + Backend)
-- ⚡ **Hexa Core API** — production API + AI UI experiments
-- 🎵 **MusiTube** — custom music player engine + UI
-- 🛠️ **API Boilerplate** — Fastify + Postgres + Redis starter (coming)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=al-quran&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=Adhans&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=LaravelQuickStart&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=argon-dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=MyVPN&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=OBD2&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 
 ---
