@@ -102,19 +102,18 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ## 🚀 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=al-quran&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=Adhans&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <a href="https://github.com/th3adittya/al-quran">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos?username=th3adittya&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=LaravelQuickStart&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=argon-dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <a href="https://github.com/th3adittya/al-quran"><img src="https://img.shields.io/badge/al--quran-PUBLIC-00d9ff?style=for-the-badge" /></a>
+  <a href="https://github.com/th3adittya/Adhans"><img src="https://img.shields.io/badge/Adhans-PUBLIC-00d9ff?style=for-the-badge" /></a>
+  <a href="https://github.com/th3adittya/LaravelQuickStart"><img src="https://img.shields.io/badge/LaravelQuickStart-PUBLIC-00d9ff?style=for-the-badge" /></a>
+  <a href="https://github.com/th3adittya/MyVPN"><img src="https://img.shields.io/badge/MyVPN-PUBLIC-00d9ff?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=MyVPN&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3adittya&repo=OBD2&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-</p>
 
 
 ---
