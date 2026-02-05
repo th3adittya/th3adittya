@@ -57,24 +57,23 @@ HTML/CSS • Android Native (Java) • Flutter (Dart) • Laravel/PHP • Python
 
 ## 🧠 Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3adittya&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=th3adittya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=th3adittya&theme=tokyonight" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=th3adittya&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3adittya&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=th3adittya&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=th3adittya&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=th3adittya&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=th3adittya&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
